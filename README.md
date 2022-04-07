@@ -1,1 +1,1 @@
-# Manideeps-Budget-Planner
+# Manideep-Budget-Planner
